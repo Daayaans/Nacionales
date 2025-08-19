@@ -46,9 +46,12 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvn3.png" group-title="NACIONALES",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal9.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal9.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://github.com/Daayaans/Logos/biobiotv.png" group-title="NACIONALES",Bío Bí­o TV http://38.7.204.226:8010/play/a2mp/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/Daayaans/Logos/biobiotv.png" group-title="NACIONALES",Bío Bí­o TV
+http://38.7.204.226:8010/play/a2mp/index.m3u8
+
 
 
 
