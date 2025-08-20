@@ -68,13 +68,19 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="NACIONALES",CNN Chile
-http://45.160.12.253:8000/play/054
+http://170.79.235.139:8010/play/a2gn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="NACIONALES",Teletrak
 http://170.79.235.139:8010/play/a2c6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV +
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + HD
+http://170.79.235.139:8010/play/a2p6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + (op2)
 http://45.184.87.142:8000/play/a00k
+
+
+
 
 
 
