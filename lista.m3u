@@ -79,6 +79,27 @@ http://170.79.235.139:8010/play/a2p6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + (op2)
 http://45.184.87.142:8000/play/a00k
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv.png" group-title="NACIONALES",NTV
+http://181.78.208.254:8080/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv.png" group-title="NACIONALES",REC TV
+http://38.7.195.44:8000/play/a02j
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13.png" group-title="NACIONALES",T13
+http://38.7.195.44:8000/play/a02k
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv.jepg" group-title="NACIONALES",ETC TV
+http://38.7.195.44:8000/play/a02n
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13rea.png" group-title="NACIONALES", Canal 13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13tel.png" group-title="NACIONALES", Canal 13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cul.png" group-title="NACIONALES", Canal 13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
 
 
 
