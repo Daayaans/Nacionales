@@ -58,6 +58,9 @@ http://38.7.204.226:8010/play/a2mp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red (op2)
+http://45.232.176.29:8000/play/a02j
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucv.png" group-title="NACIONALES",UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -99,6 +102,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cul.png" group-title="NACIONALES", Canal 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
 
 
 
