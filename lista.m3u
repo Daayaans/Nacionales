@@ -77,7 +77,7 @@ http://45.238.20.210:8888/play/CNN_Chile_M_LP/index.m3u8
 http://170.79.235.139:8010/play/a2c6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + 
-http://170.79.235.139:8010/play/a2p6/index.m3u8
+http://45.230.48.105:28000/play/2006
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + (op2)
 http://45.184.87.142:8000/play/a00k
@@ -105,6 +105,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvu.png" group-title="NACIONALES", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+
 
 
 
