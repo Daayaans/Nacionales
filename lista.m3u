@@ -71,7 +71,7 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="NACIONALES",CNN Chile
-http://45.238.20.210:8888/play/CNN_Chile_M_LP/index.m3u8
+http://179.56.190.187:8000/play/a0za/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="NACIONALES",Teletrak
 http://170.79.235.139:8010/play/a2c6/index.m3u8
@@ -105,6 +105,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvu.png" group-title="NACIONALES", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+
 
 
 
