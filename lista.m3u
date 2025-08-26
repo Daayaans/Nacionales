@@ -73,5 +73,5 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_1240d4.png" group-title="NACIONALES",CNN ESPAÑOL
 http://170.79.235.139:8010/play/a2pk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PRUEBA",Zona Latina
+#EXTINF:-1 tvg-logo="" group-title="PRUEBA",Via X
 http://45.232.176.29:8000/play/a01s
