@@ -8,9 +8,9 @@ http://38.7.194.41:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD (op2)
 http://38.7.195.43:8000/play/a02k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
-http://38.7.194.41:8000/play/a0jn
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
 http://179.57.171.184:8000/play/a00c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
+http://45.232.176.29:8000/play/a002
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
 http://38.7.194.41:8000/play/a0l4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD (op2)
