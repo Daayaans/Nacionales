@@ -34,7 +34,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/biobiotv.png" group-title="NACIONALES",Bío Bí­o TV
-http://38.7.204.226:8010/play/a2mp/index.m3u8
+http://152.231.74.202:9000/play/a0ao
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red (op2)
@@ -72,4 +72,4 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/logos/FutGo.png" group-title="NACIONALES",Futgo
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_1240d4.png" group-title="NACIONALES",CNN ESPAÑOL
-http://170.79.235.139:8010/play/a2pk/index.m3u8
+http://152.231.74.202:9000/play/a0b7
