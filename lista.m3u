@@ -71,8 +71,6 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/logos/FutGo.png" group-title="NACIONALES",Futgo
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_1240d4.png" group-title="NACIONALES",CNN ESPAÑOL
-http://186.67.41.230:9000/play/a0b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cocina_57faad.png" group-title="NACIONALES",13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13pop_aa7c83.png" group-title="NACIONALES",13 Pop
