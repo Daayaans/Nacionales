@@ -6,7 +6,7 @@ http://179.56.190.187:8000/play/a1k9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD
 http://38.7.194.41:8000/play/a05f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD (op2)
-http://38.7.195.43:8000/play/a02k
+http://200.95.184.123:9002/play/a07a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
@@ -72,4 +72,4 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/logos/FutGo.png" group-title="NACIONALES",Futgo
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_1240d4.png" group-title="NACIONALES",CNN ESPAÑOL
-http://152.231.74.202:9000/play/a0b7
+http://186.10.78.126:9000/play/a0b7
