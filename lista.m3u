@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
-http://38.7.194.41:8000/play/a0j8
+http://177.128.113.1:8000/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C (op2)
 http://179.56.190.187:8000/play/a1k9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD
-http://38.7.194.41:8000/play/a05f
+http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD (op2)
 http://200.95.184.123:9002/play/a07a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
@@ -12,9 +12,9 @@ http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
 http://45.232.176.29:8000/play/a002
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
-http://38.7.194.41:8000/play/a0l4
+http://38.250.127.17:9800/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD (op2)
-http://38.7.194.41:8000/play/a05o
+http://177.128.113.1:8000/play/a04k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="NACIONALES",Mega2
 http://179.57.171.184:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="NACIONALES",Mega
@@ -26,7 +26,7 @@ http://179.57.171.184:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="NACIONALES",Meganoticias
 http://179.57.171.184:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision
-http://38.7.194.41:8000/play/a05h
+http://38.250.127.17:9800/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision (op2)
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3.png" group-title="NACIONALES",TVN3
