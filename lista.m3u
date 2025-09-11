@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C
 http://177.128.113.1:8000/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/13c.png" group-title="NACIONALES",13 C (op2)
 http://179.56.190.187:8000/play/a1k9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13hd_e00dd7.png" group-title="NACIONALES",Canal 13 HD
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal13hd.png" group-title="NACIONALES",Canal 13 HD (op2)
 http://200.95.184.123:9002/play/a07a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal24horashd_4ed5b7.png" group-title="NACIONALES",Canal 24 Horas HD
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/canal24horashd.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
 http://45.232.176.29:8000/play/a002
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvnhd_23433d.png" group-title="NACIONALES",TVN HD
 http://38.250.127.17:9800/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/tvnhd.png" group-title="NACIONALES",TVN HD (op2)
 http://177.128.113.1:8000/play/a04k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega2.png" group-title="NACIONALES",Mega2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/mega2_07f218.png" group-title="NACIONALES",Mega2
 http://179.57.171.184:8000/play/a00e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/mega_3abc25.png" group-title="NACIONALES",Mega
 http://179.57.171.184:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/mega.png" group-title="NACIONALES",Mega (op2)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/megaficcion.png" group-title="NACIONALES",Megaficcion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/megaficcion_edf5e6.png" group-title="NACIONALES",Megaficcion
 http://179.57.171.184:8000/play/a00f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/meganoticias.png" group-title="NACIONALES",Meganoticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/meganoticias_a22d5d.png" group-title="NACIONALES",Meganoticias
 http://179.57.171.184:8000/play/a00j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chilevision_2638ff.png" group-title="NACIONALES",Chilevision
 http://38.250.127.17:9800/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/chilevision.png" group-title="NACIONALES",Chilevision (op2)
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3.png" group-title="NACIONALES",TVN3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvn3_2808a7.png" group-title="NACIONALES",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9bobotv_273030.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/biobiotv.png" group-title="NACIONALES",Bío Bí­o TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/bobotv_a4dad9.png" group-title="NACIONALES",Bío Bío TV
 http://152.231.74.202:9000/play/a0ao
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared_423e03.png" group-title="NACIONALES",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared.png" group-title="NACIONALES",La Red (op2)
 http://179.56.190.187:8000/play/a1if/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucv.png" group-title="NACIONALES",UCV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucvtv_fab994.png" group-title="NACIONALES",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvd.png" group-title="NACIONALES",CHV Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvdeportes_bfe356.png" group-title="NACIONALES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13.png" group-title="NACIONALES",D13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13_808def.png" group-title="NACIONALES",D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnncl.png" group-title="NACIONALES",CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnchile_25a0db.png" group-title="NACIONALES",CNN Chile
 http://179.56.190.187:8000/play/a0za/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak.png" group-title="NACIONALES",Teletrak
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak_d7443d.png" group-title="NACIONALES",Teletrak
 http://179.56.190.187:8000/play/a0zb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV +
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tv_1977ba.png" group-title="NACIONALES",TV +
 http://45.230.48.105:28000/play/2006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvmas.png" group-title="NACIONALES",TV + (op2)
 http://45.184.87.142:8000/play/a00k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv.png" group-title="NACIONALES",NTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv_7a5b37.png" group-title="NACIONALES",NTV
 http://179.56.190.187:8000/play/a0zg/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv.png" group-title="NACIONALES",REC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv_c63f11.png" group-title="NACIONALES",REC TV
 http://38.7.195.44:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13.png" group-title="NACIONALES",T13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13_43b0dc.png" group-title="NACIONALES",T13
 http://38.7.195.44:8000/play/a02k
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv.png" group-title="NACIONALES",ETC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/etctv_504caa.png" group-title="NACIONALES",ETC TV
 http://38.7.195.44:8000/play/a02n
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13rea.png" group-title="NACIONALES",Canal 13 Realities
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13realities_c97031.png" group-title="NACIONALES",Canal 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13teleseries_4d6675.png" group-title="NACIONALES",Canal 13 Teleseries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13teleseries_028628.png" group-title="NACIONALES",Canal 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cul.png" group-title="NACIONALES",Canal 13 Cultura
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13cultura_1c6d56.png" group-title="NACIONALES",Canal 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvu.png" group-title="NACIONALES",TVU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tvu_b69685.png" group-title="NACIONALES",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/logos/FutGo.png" group-title="NACIONALES",Futgo
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cocina_57faad.png" group-title="NACIONALES",13 Cocina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13cocina_aee3bb.png" group-title="NACIONALES",13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13pop_aa7c83.png" group-title="NACIONALES",13 Pop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13pop_80e339.png" group-title="NACIONALES",13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13festival_e49e1c.png" group-title="NACIONALES",13 Festival
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13festival_9e9d16.png" group-title="NACIONALES",13 Festival
 https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13viajes_b97acd.png" group-title="NACIONALES",13 Viajes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13viajes_55a28c.png" group-title="NACIONALES",13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_82712e.png" group-title="NACIONALES",CNN Español
 http://190.93.229.30:8000/play/a0t1
