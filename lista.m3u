@@ -79,5 +79,5 @@ https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
 https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13viajes_b97acd.png" group-title="NACIONALES",13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnchile_7d7b4f.png" group-title="NACIONALES",CNN Chile
-http://190.93.229.30:8000/play/a0uy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_82712e.png" group-title="NACIONALES",CNN Español
+http://190.93.229.30:8000/play/a0t1
