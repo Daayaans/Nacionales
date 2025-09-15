@@ -81,3 +81,5 @@ https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnespaol_82712e.png" group-title="NACIONALES",CNN Español
 http://190.93.229.30:8000/play/a0t1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/uchiletv_660cde.png" group-title="NACIONALES",U Chile TV
+https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
