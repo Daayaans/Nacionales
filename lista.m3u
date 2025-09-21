@@ -34,9 +34,9 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal9bobotv_273030.png" group-title="NACIONALES",Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/bobotv_a4dad9.png" group-title="NACIONALES",Bío Bío TV
-http://152.231.74.202:9000/play/a0ao
+http://179.56.190.187:8000/play/a1lh/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared_423e03.png" group-title="NACIONALES",La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+http://45.160.12.253:8000/play/062
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/lared_423e03.png" group-title="NACIONALES",La Red (op2)
 http://179.56.190.187:8000/play/a1if/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucvtv_fab994.png" group-title="NACIONALES",UCV TV
