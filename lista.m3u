@@ -85,7 +85,7 @@ http://216.155.91.47:8000/play/a09z/index.m3u8
 https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvnoticias_4d3315.png" group-title="NACIONALES",CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LA LIGA 2D",La Liga 2D (1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/laliga2d1_ec411c.png" group-title="LA LIGA 2D",La Liga 2D (1)
 http://iptv.premiumstore.biz:8080/UCdRV8GG7A/P8MvVF8Zn5dY/243096
 #EXTINF:-1 tvg-logo="" group-title="LA LIGA 2D",La Liga 2D (2)
 http://iptv.premiumstore.biz:8080/UCdRV8GG7A/P8MvVF8Zn5dY/249009
