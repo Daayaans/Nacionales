@@ -44,7 +44,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/chvdeportes_bfe356.png" group-title="NACIONALES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13_808def.png" group-title="NACIONALES",D13
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
+http://iptv.premiumstore.biz:8080/UCdRV8GG7A/P8MvVF8Zn5dY/209644
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnchile_25a0db.png" group-title="NACIONALES",CNN Chile
 http://179.56.190.187:8000/play/a0za/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak_d7443d.png" group-title="NACIONALES",Teletrak
