@@ -4,9 +4,9 @@ http://177.128.113.1:8000/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C (op2)
 http://179.56.190.187:8000/play/a1k9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13hd_994a84.png" group-title="NACIONALES",Canal 13 HD
-http://38.250.127.17:9800/play/a067/index.m3u8
+http://207.248.3.81:8081/play/a0ps
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13hd_994a84.png" group-title="NACIONALES",Canal 13 HD (op2)
-http://200.95.184.123:9002/play/a07a
+http://152.230.229.66:8001/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal24horashd_4ed5b7.png" group-title="NACIONALES",Canal 24 Horas HD
 http://179.57.171.184:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal24horashd_4ed5b7.png" group-title="NACIONALES",Canal 24 Horas HD (op2)
