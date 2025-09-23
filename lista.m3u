@@ -1,4 +1,4 @@
-#EXTM3U bbb
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C
 http://177.128.113.1:8000/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C (op2)
