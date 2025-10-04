@@ -46,15 +46,15 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13_808def.png" group-title="NACIONALES",D13
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnchile_25a0db.png" group-title="NACIONALES",CNN Chile
-http://179.56.190.187:8000/play/a0za/index.m3u8
+http://181.78.192.238:8000/play/a1uj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak_d7443d.png" group-title="NACIONALES",Teletrak
-http://179.56.190.187:8000/play/a0zb/index.m3u8
+http://45.160.12.200:8008/play/236/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tv_1977ba.png" group-title="NACIONALES",TV +
 http://45.230.48.105:28000/play/2006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tv_1977ba.png" group-title="NACIONALES",TV + (op2)
 http://45.184.87.142:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv_7a5b37.png" group-title="NACIONALES",NTV
-http://179.56.190.187:8000/play/a0zg/index.m3u8
+http://181.78.192.238:8000/play/a1ub/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv_c63f11.png" group-title="NACIONALES",REC TV
 http://38.7.195.44:8000/play/a02j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/t13_43b0dc.png" group-title="NACIONALES",T13
