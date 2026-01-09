@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C
 http://177.128.113.1:8000/play/a08u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/13c_e83c1c.png" group-title="NACIONALES",13 C (op2)
-http://45.184.87.142:8000/play/a00v
+http://45.181.122.46:8090/play/a02n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13hd_994a84.png" group-title="NACIONALES",Canal 13 HD
 http://45.4.3.177:9999/play/13mundo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/canal13hd_994a84.png" group-title="NACIONALES",Canal 13 HD (op2)
@@ -41,8 +41,6 @@ http://179.57.171.189:8000/play/a04y/index.m3u8
 http://179.57.171.189:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ucvtv_fab994.png" group-title="NACIONALES",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/d13_808def.png" group-title="NACIONALES",D13
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/cnnchile_25a0db.png" group-title="NACIONALES",CNN Chile
 http://181.78.192.238:8000/play/a1uj/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/teletrak_d7443d.png" group-title="NACIONALES",Teletrak
@@ -50,7 +48,7 @@ http://45.160.12.200:8008/play/236/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tv_1977ba.png" group-title="NACIONALES",TV +
 http://45.230.48.105:28000/play/2006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/tv_1977ba.png" group-title="NACIONALES",TV + (op2)
-http://45.184.87.142:8000/play/a00k
+http://38.7.195.45:8000/play/a042
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/ntv_7a5b37.png" group-title="NACIONALES",NTV
 http://181.78.192.238:8000/play/a1ub/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Daayaans/Logos/main/rectv_c63f11.png" group-title="NACIONALES",REC TV
